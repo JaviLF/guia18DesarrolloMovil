@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationsApplication</string>
+    <string name="channel_name">canal 21</string>
+    <string name="channel_description">canal buenardo</string>
+</resources>
